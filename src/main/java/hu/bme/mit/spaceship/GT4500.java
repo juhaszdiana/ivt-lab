@@ -5,7 +5,7 @@ package hu.bme.mit.spaceship;
 */
 public class GT4500 implements SpaceShip {
 
-  //ide írok valamit branch-B
+  //ide írok valamit conflict solved
 
   private TorpedoStore primaryTorpedoStore;
   private TorpedoStore secondaryTorpedoStore;
